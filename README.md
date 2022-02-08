@@ -19,9 +19,9 @@ This is my PWA-Text-Editor.
 [Live Deployment Link]()
 
 
-## Screenshots of Finished Product
 
-## Acknowledgements
+
+
 
 
 
